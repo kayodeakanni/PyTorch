@@ -1,2 +1,2 @@
-# PyTorch
+# MNIST-with-PyTorch
 Deep learning
